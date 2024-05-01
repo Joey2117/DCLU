@@ -3,5 +3,7 @@ Chaoyi Li, Meng Li, Can Peng, Brian C. Lovell, "Dynamic Curriculum Learning via 
 
 ![image](./DCLU_framework.png)
 
+In this repository, we provide the demo of DCLU to reproduce the experiments on CIFAR10 in the supplementary material.
+
 ## Requirements:
 - Python 3.5
