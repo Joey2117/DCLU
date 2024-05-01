@@ -4,4 +4,4 @@ Chaoyi Li, Meng Li, Can Peng, Brian C. Lovell, "Dynamic Curriculum Learning via 
 ![image](./DCLU_framework.png)
 
 ## Requirements:
--Python 3.5
+- Python 3.5
