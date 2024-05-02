@@ -13,6 +13,6 @@ pip install -r requirements.txt
 ## Results
 ### CIFAR 10
 
-|**Method**|Vanilla|SPL|SPCL|FCL|Adaptive CL|Ours(exp)|Ours(full)|
+|**Method**|Vanilla*|SPL*|SPCL*|FCL*|Adaptive CL*|Ours(exp)|Ours(full)|
 |----------|-------|---|----|---|-----------|---------|----------|
 |**Accuracy**|$78.09(± 0.083)$|$77.95 (± 0.078)$|$76.48 (± 0.182)$|$78.51 (± 0.106)$|$79.74 (± 0.074)$|$81.16 (± 0.553)$|$81.58(± 0.064)$|
