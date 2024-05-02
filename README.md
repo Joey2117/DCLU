@@ -15,3 +15,8 @@ pip install -r requirements.txt
 |**Method**|**Accuracy**|
 |----------|------------|
 |Vanilla|$78.09(± 0.083)$|
+
+
+|**Method**|Vanilla|
+|----------|------------|
+|**Accuracy**|$78.09(± 0.083)$|
