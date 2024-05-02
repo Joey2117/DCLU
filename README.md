@@ -31,3 +31,5 @@ Cite as below if you find this repository is helpful to your project.
   organization={Springer}
 }
 ```
+## Acknowledgement
+* Many thanks to the amazing [Evidential Deep Learning to Quantify Classification Uncertainty](https://github.com/muratsensoy/muratsensoy.github.io/blob/master/uncertainty.ipynb)
