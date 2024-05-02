@@ -16,3 +16,5 @@ pip install -r requirements.txt
 |**Method**|Vanilla*|SPL*|SPCL*|FCL*|Adaptive CL*|Ours(exp)|Ours(full)|
 |----------|-------|---|----|---|-----------|---------|----------|
 |**Accuracy**|$78.09(± 0.083)$|$77.95 (± 0.078)$|$76.48 (± 0.182)$|$78.51 (± 0.106)$|$79.74 (± 0.074)$|$81.16 (± 0.553)$|$81.58(± 0.064)$|
+
+“*” denotes results reported by Kong, Y., Liu, L., Wang, J., & Tao, D. (2021). Adaptive curriculum learning. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 5067-5076).
