@@ -32,4 +32,4 @@ Cite as below if you find this repository is helpful to your project.
 }
 ```
 ## Acknowledgement
-* Many thanks to the amazing [Evidential Deep Learning to Quantify Classification Uncertainty](https://github.com/muratsensoy/muratsensoy.github.io/blob/master/uncertainty.ipynb)
+* Many thanks to the amazing work [Evidential Deep Learning to Quantify Classification Uncertainty](https://github.com/muratsensoy/muratsensoy.github.io/blob/master/uncertainty.ipynb)
