@@ -17,6 +17,6 @@ pip install -r requirements.txt
 |Vanilla|$78.09(± 0.083)$|
 
 
-|**Method**|Vanilla|
-|----------|------------|
+|**Method**|Vanilla|SPL|SPCL|FCL|Adaptive CL|Ours(exp)|Ours(full)|
+|----------|-------|---|----|---|-----------|---------|----------|
 |**Accuracy**|$78.09(± 0.083)$|
