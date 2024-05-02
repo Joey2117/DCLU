@@ -12,4 +12,6 @@ pip install -r requirements.txt
 
 ## Results
 ### CIFAR 10
-|**DICE**|**LVC**|**MYO**|**RVC**|**Average**|**HD**|**LVC**|**MYO**|**RVC**|**Average**|
+|**Method**|**Accuracy**|
+|----------|------------|
+|Vanilla|$78.09(± 0.083)$|
